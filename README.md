@@ -1,8 +1,24 @@
-1ro- 4 PAGINAS : HOME-CONTACTENOS-FARMACIA-JUGUETES
+CENTRO PET - E-COMMERCE VETERINARIO (PROYECTO GRUPAL)
 
-2do- GENERAL: NAV CON LOGO Y CARRITO DE COMPRAS(Local Storage), FOOTER.
+POSICIóN: TEAM LEADER
 
-3ro- HOME: HEADER(UNA FOTO/VIDEO DE UNA MASCOTA, DESCRIPCION Y NOMBRE DEL PETSHOP), 
-     MAIN:  CARTA DE PRESENTACION DE DESARROLLADORES (NOSOTROS), MAPA  
-     VIDEO: https://vimeo.com/500076195?embedded=true&source=vimeo_logo&owner=131167089
-     
+TECNOLOGíAS UTILIZADAS:
+
+- FRONT END
+
+     * HTML - CSS - JavaScript
+     * Vue.js
+     * Bootstrap
+     * Axios
+
+- EXTRAS
+
+     * Git / Github
+     * Trello
+
+
+TAREAS REALIZADAS :
+
+- Diseñé una ruta, administré y distribuí las tareas a realizar por cada desarrollador mediante trello.
+- Realizé las vistas de la paginas de inicio y contacto.
+- Implemente las funcionalidades de la tienda.
